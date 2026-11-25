@@ -1,5 +1,6 @@
 {
-  "name": "BuildTrack Pro",
-  "description": "Multi-project construction management for Manason Engineering Ltd: BOQ & baseline control, daily site reports, materials inventory, cost control, cash flow, and forecasting.",
-  "requestFramePermissions": []
+  "name": "Manason Engineering CMS",
+  "description": "Construction and civil engineering operations platform for projects, site stores, labor attendance, weighted progress, and financial governance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
